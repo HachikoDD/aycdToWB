@@ -1,0 +1,6 @@
+用法：
+1、将工具下载至任意目录
+2、将AYCD导出的csv放到同级目录(一般为:mm_dd_yyyy_xxxxxxx.csv)
+3、运行程序选择指定文件回车
+4、同级目录下会生成一个叫captchaSessions.db的文件,将文件复制到C:\Users\Administrator\AppData\Roaming\What Bot Data下,覆盖同名文件
+5、重启Wb
